@@ -67,7 +67,7 @@ export default function LoginScreen() {
             <Ionicons name="bed" size={40} color="white" />
           </View>
           <Text className="text-3xl font-bold text-black mb-2">
-            Hostel Portal
+            UNI-STAY
           </Text>
           <Text className="text-gray-500 text-base">
             Student Login
